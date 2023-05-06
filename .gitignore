@@ -1,0 +1,7 @@
+credentials.json
+token.json
+.idea/
+result-*.txt
+
+venv/
+.venv/
